@@ -1,5 +1,13 @@
 ASYM_T - Asymmetric Fat-Tailed Distribution Framework
 
+
+Files:
+
+ASHM_T_PUB.xlsx      -- spreadsheet implementing asymmetric fat-tailed distribution
+LAMBDA_DECK_1_v2.pdf --  Presentation: LAMBDA Concepts and Context
+LAMBDA_DECK_2_v2.pdf --  Presentation: Prachtical LAMDA Programming
+
+
 Overview
 
 This spreadsheet implements a configurable asymmetric fat-tailed distribution and applies it to:
